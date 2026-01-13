@@ -16,8 +16,8 @@ Short Description: This script created for view selected information about syste
 
 ##Installation
 ```bash
-git clone https://github.com/DemchenkoDev/sysinfo.git
-cd sysinfo
+git clone https://github.com/DemchenkoDev/linux_sysinfo.git
+cd linux_sysinfo
 ```
 ##File check:
 ```bash
