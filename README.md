@@ -15,19 +15,31 @@ Short Description: This script created for view selected information about syste
 #INSTALLATION AND RUN:
 
 ##Installation
+```bash
 git clone https://github.com/DemchenkoDev/sysinfo.git
 cd sysinfo
+```
 ##File check:
+```bash
 ls -l sysinfo.sh
+```
 if you see some like this: "-rw-r--r-- sysinfo.sh" use:
+```bash
 chmod +x sysinfo.sh
+```
 
 ##Run
+```bash
 ./sysinfo.sh
+```
 or:
+```bash
 bash sysinfo.sh
+```
 or:
+```bash
 sh sysinfo.sh
+```
 
 ##Experience
 
